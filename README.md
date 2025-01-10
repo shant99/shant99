@@ -45,4 +45,5 @@
 
 ### Watch my contribution graph get eaten by the snake :snake:
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/shant99/shant99/blob/output/github-snake-dark.svg)
+
