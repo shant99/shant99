@@ -1,12 +1,12 @@
-# 👋  Hey everyone, I'm Shant Hakobyan 👋 
+# 👋  Hey everyone, I'm Shant Hakobyan :blush:
 
 ![Shant Hakobyans room - gif of my actual gaming room setup](https://github.com/shant99/shant99/blob/main/images/coding.gif)
 
 
 
-:wave: Software Engineer with over 5 years of expertise in designing, developing, and deploying modern web applications. Proficient in JavaScript (ES6+) with a strong focus on building scalable, high-performance solutions. Skilled at leading cross-functional teams, optimizing application performance, and integrating advanced technologies. Recognized for delivering user-centric, innovative solutions and driving measurable business results in dynamic, fast-paced environments.
+:memo: Software Engineer with over 5 years of expertise in designing, developing, and deploying modern web applications. Proficient in JavaScript (ES6+) with a strong focus on building scalable, high-performance solutions. Skilled at leading cross-functional teams, optimizing application performance, and integrating advanced technologies. Recognized for delivering user-centric, innovative solutions and driving measurable business results in dynamic, fast-paced environments.
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools :hammer_and_wrench: </h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -39,11 +39,12 @@
   <img align='right' src='https://github.com/shant99/shant99/blob/main/images/github.gif' width='200'>
 </p>
 
-<h3 align="left">Find me all around the web:</h3>
+<h3 align="left">Find me all around the web :globe_with_meridians: </h3>
 
 <a href="https://www.linkedin.com/in/shant-hakobyan-a3b461217/" target="blank"><img align="center" src="https://github.com/shant99/shant99/blob/main/images/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 
 ### Watch my contribution graph get eaten by the snake :snake:
+<h6>( :bulb: "For the best experience, enable the dark theme on GitHub by going to Settings → Appearance." :bulb: )</h6>
 
 ![snake gif](https://github.com/shant99/shant99/blob/output/github-snake-dark.svg)
 
