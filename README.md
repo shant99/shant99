@@ -44,8 +44,8 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/shant-hakobyan-a3b461217/" target="blank"><img align="center" src="https://github.com/shant99/shant99/blob/main/images/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
   <a href="https://stackoverflow.com/users/28535005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="28535005" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/shanthakobyan3451" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shanthakobyan3451" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/shant_hakobyan_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shant_hakobyan_1" height="30" width="40" /></a>
+   <a href="https://www.youtube.com/@shanthakobyan3451" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shanthakobyan3451" height="30" width="40" /></a>
 </p>
 
 
