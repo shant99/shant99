@@ -37,13 +37,11 @@
 
 
   <img align='right' src='https://github.com/shant99/shant99/blob/main/images/github.gif' width='200'>
-
 </p>
 
-**Find me all around the web:**
+<h3 align="left">Find me all around the web:</h3>
 
 <a href="https://www.linkedin.com/in/shant-hakobyan-a3b461217/" target="blank"><img align="center" src="https://github.com/shant99/shant99/blob/main/images/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
-
 
 ### Watch my contribution graph get eaten by the snake :snake:
 
