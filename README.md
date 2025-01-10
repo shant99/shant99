@@ -1,5 +1,7 @@
-## Hi there 👋
+## 👋  Hey everyone, I'm Shant Hakobyan 👋 
 
+
+<a href="https://www.linkedin.com/in/shant-hakobyan-a3b461217/" target="blank"><img align="center" src="https://github.com/shant99/shant99/blob/main/images/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 <!--
 **shant99/shant99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
