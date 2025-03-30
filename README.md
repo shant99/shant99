@@ -105,6 +105,10 @@
 
 <br/>  
 
+<div align="center">
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{shant99}/count.svg" /></p> 
+<br></div>
 
 ### Watch my contribution graph get eaten by the snake :snake:
 <h6>( :bulb: "For the best experience, enable the dark theme on GitHub by going to Settings → Appearance." :bulb: )</h6>
