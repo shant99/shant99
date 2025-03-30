@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+
 # 👋  Hey everyone, I'm Shant Hakobyan :blush:
 
 ![Shant Hakobyans room - gif of my actual gaming room setup](https://github.com/shant99/shant99/blob/main/images/coding.gif)
@@ -55,3 +57,4 @@
 
 ![snake gif](https://github.com/shant99/shant99/blob/output/github-snake-dark.svg)
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
