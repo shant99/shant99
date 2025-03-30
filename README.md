@@ -2,13 +2,6 @@
 
 # 👋  Hey everyone, I'm Shant Hakobyan :blush:
 
-<h2 style="
-    left: -500px;
-    position: absolute;
-    z-index: 200;
-    font-size: 91px;
-">Hello</h2>
-
 ![Shant Hakobyans room - gif of my actual gaming room setup](https://github.com/shant99/shant99/blob/main/images/coding.gif)
 
 
